@@ -128,8 +128,8 @@ void loop() {
   int ih = int(h);
   int ipo = int(outpr);
   int ipi = int(inpr);
-  sendData(it, ih, ipo, ipi, rainval, 0);
-  delay(60UL * 60UL * 1000UL);
+  //sendData(it, ih, ipo, ipi, rainval, 0);
+  //delay(60UL * 60UL * 1000UL);
 
 
 
